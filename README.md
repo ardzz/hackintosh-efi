@@ -24,3 +24,4 @@
 * USB 3.0
 * USB 2.0
 * WiFi (using chris1111's driver)
+* OTA
